@@ -1,0 +1,47 @@
+.Block{
+  padding: 30px;
+  margin-top: 50px;
+  margin-left: 25%;
+  margin-right: 25%;
+  background: #fff;
+  border-radius: 50px;
+  box-shadow: -9px 17px 13px rgb(0 0 0 / 16%);
+}
+
+.Block h2{
+  text-align: center;
+}
+
+.Block form{
+  text-align: center;
+}
+
+form input {
+  padding: 7px;
+  background: #fff;
+  border-radius: 20px;
+  border-width: 1px;
+}
+
+form input:focus{
+  outline:none;
+}
+
+li {
+  list-style: none;
+  padding: 10px;
+  border-bottom: 1px #ccc dotted;
+  text-decoration: none;
+  max-width: 50%;
+  margin-left: 22%;
+  margin-right: 28%;
+}
+
+button {
+  color: #000;
+  border: none;
+  padding: 5px 9px;
+  border-radius: 50%;
+  cursor: pointer;
+  float: right;
+}
